@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋 I'm Matheus
+Hi I'm Matheus
 </h1>
 <h2 align="right">
 Systems Development student at ETEC.
