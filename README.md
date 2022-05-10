@@ -6,10 +6,10 @@ Systems Development student at ETEC.
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahitoo&show_icons=true&theme=dracula&locale=en&layout=compact"  alt="mahitoo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahitoo&show_icons=true&theme=dark&locale=en&layout=compact"  alt="mahitoo">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahitoo&show_icons=true&theme=dracula&locale=en" alt="mahitoo">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahitoo&show_icons=true&theme=dark&locale=en" alt="mahitoo">
 </p>
 
 
