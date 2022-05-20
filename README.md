@@ -17,7 +17,7 @@ Systems Development student at ETEC.
 <a href="https://twitter.com/Theuzss_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/theuzss_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-costa-277952232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="right" alt="Luffy" src="https://media3.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="300px">
+<img align="rigth" alt="Chopper" src="https://media3.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="300px">
  </div>   
 
 
