@@ -13,11 +13,11 @@ Systems Development student at ETEC.
 </div>
 
 
-<!--<div>
+<div>
 <a href="https://twitter.com/Theuzss_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/theuzss_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-costa-277952232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-
+<a href="https://www.linkedin.com/in/matheus-costa-277952232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <!--<div align= "right">
 <img align="center" alt="Chopper" src="http://31.media.tumblr.com/4bc96148edf3869511758facc933a762/tumblr_mlb0g6z1EI1snnrgxo1_500.gif" width="300px">
  </div>   
