@@ -39,7 +39,7 @@
   </div>
 
  <p align="start">
-<img src="./img/bannerGojo" width="500" /><br/>
+<img src="./img/bannerGojo.jpg" width="500" /><br/>
   
 <sub> *“Você tocou o infinito que existe entre nós..” – Satoru Gojo* </sub>
 </p>
