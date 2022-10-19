@@ -31,7 +31,8 @@
   
 - 📗 [***Matheus7p/MatheusDev***](https://matheus-dev.herokuapp.com/) <br/>
   Site Pessoal  <br/>
--📗 [***Matheus7p/Poked-x***](https://github.com/Matheus7p/Poked-x) <br/>
+- 📗 [***Matheus7p/Poked-x***](https://github.com/Matheus7p/Poked-x) <br/>
+  Pokedéx <br/>
   
 
 <div>
