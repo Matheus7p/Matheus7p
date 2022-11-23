@@ -29,10 +29,12 @@
 <br/>
 <br/>
   
-- 📗 [***Matheus7p/MatheusDev***](https://matheus-dev.herokuapp.com/) <br/>
+- 📗 [***Site Pessoal***](https://matheus-dev.herokuapp.com/) <br/>
   Site Pessoal  <br/>
-- 📗 [***Matheus7p/Poked-x***](https://github.com/Matheus7p/Poked-x) <br/>
-  Pokedéx <br/>
+- 📗 [***Pokédex***](https://github.com/Matheus7p/Poked-x) <br/>
+  Pokédex utilizando PokéAPI<br/>
+- 📗 [***TCC Etec JK***](https://github.com/Matheus7p/TCCPHP) <br/>
+  Trabalho de Conclusão de Curso<br/>
   
 
 <div>
