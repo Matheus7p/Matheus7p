@@ -14,7 +14,7 @@
 
 - Live in **São paulo, São Paulo**
 
-- Studying: Systems Development (ETEC)
+- Studying: Fatec Cross-Platform Software Development
 </div>
 
 <div align="start">
