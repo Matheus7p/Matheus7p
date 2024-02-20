@@ -19,8 +19,6 @@
 
 - 📗 [***Clone Discord***](https://github.com/Matheus7p/CloneDiscord) <br/>
   Clone da Interface do Discord<br/>
-- 📗 [***Pokédex***](https://github.com/Matheus7p/Poked-x) <br/>
-  Pokédex Utilizando PokéAPI<br/>
 - 📗 [***TCC Etec JK***](https://github.com/Matheus7p/TCCPHP) <br/>
   Trabalho de Conclusão de Curso<br/>
 
