@@ -10,19 +10,11 @@
 <img src="./img/MatheusSP.png" width="220" height="220">
 </div>
 
-<hr>
-
-<h2 align="center">
-  Projects
-</h2>
-
-
-- 📗 [***Clone Discord***](https://github.com/Matheus7p/CloneDiscord) <br/>
-  Clone da Interface do Discord<br/>
-- 📗 [***TCC Etec JK***](https://github.com/Matheus7p/TCCPHP) <br/>
-  Trabalho de Conclusão de Curso<br/>
-
 <div align="center" > 
-       <img height="40px" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,java,angular,tailwind,scss" />
+       <img height="40px" src="https://skillicons.dev/icons?i=html,css,js" />
+  </br>
+        <img height="40px" src="https://skillicons.dev/icons?i=java,mysql,mongodb" />
+  </br>
+         <img height="40px" src="https://skillicons.dev/icons?i=react,ts,tailwind" />
 
    </div>
